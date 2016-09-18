@@ -11,3 +11,11 @@ Yellow
 Red
 These are the colors of the rainbow and the unicorn.
 Pony
+
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
