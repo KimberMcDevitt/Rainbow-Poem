@@ -19,3 +19,7 @@ Green
 Blue
 Indigo
 Violet
+
+This is not a rainbow color
+Pink
+Mauve
